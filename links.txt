@@ -1,0 +1,9 @@
+JSON ONLINE EDITOR: https://jsoncrack.com/editor
+
+DECROATORS BEST DOCUMENTATION: https://www.geeksforgeeks.org/python/decorators-in-python/
+
+PYDANTIC: https://pydantic.dev/docs/validation/latest/get-started/
+
+OPEN API KEYS AT ONE PLACE: https://openrouter.ai/
+
+LANGCHAIN AGENT DOCS: https://docs.langchain.com/build-overview
