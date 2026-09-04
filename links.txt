@@ -7,3 +7,7 @@ PYDANTIC: https://pydantic.dev/docs/validation/latest/get-started/
 OPEN API KEYS AT ONE PLACE: https://openrouter.ai/
 
 LANGCHAIN AGENT DOCS: https://docs.langchain.com/build-overview
+
+Claude AI and MCP servers: https://ai-automation-with-mayank.netlify.app/#home
+
+MCP: https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro
