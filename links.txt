@@ -10,4 +10,7 @@ LANGCHAIN AGENT DOCS: https://docs.langchain.com/build-overview
 
 Claude AI and MCP servers: https://ai-automation-with-mayank.netlify.app/#home
 
-MCP: https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro
+MCP: https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro , https://mcp-lifecycle.netlify.app/ , https://mcp-lifecycle-simulator.netlify.app/
+
+
+
