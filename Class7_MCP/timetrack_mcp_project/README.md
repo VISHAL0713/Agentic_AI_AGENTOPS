@@ -114,6 +114,20 @@ npx @modelcontextprotocol/inspector@2.5.0 uv run python main.py
 
 Use this mode only when you are not connecting to `http://127.0.0.1:8000/mcp`.
 
+## 7. Start the MCP server directly over HTTP on port 8001
+
+To run only the MCP server with Streamable HTTP instead of stdio, use:
+
+```bash
+uv run fastmcp run main.py --transport http --host 127.0.0.1 --port 8001
+```
+
+Connect MCP Inspector to:
+
+```text
+http://127.0.0.1:8001/mcp
+```
+
 ## Useful API commands
 
 List all entries:
