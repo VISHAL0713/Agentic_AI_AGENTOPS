@@ -184,4 +184,4 @@ For the port `8000` setup, make sure:
 
 ### The website does not load
 
-Start the command from `timetrack_mcp_project` or use the absolute project path. The application uses paths relative to `main.py`, so the static files and database work regardless of the terminal's working directory.
+
